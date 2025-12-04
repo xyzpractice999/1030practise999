@@ -33,13 +33,7 @@ public class TestGetAPIs16 {
 		System.out.println(res.statusCode());
 
 
-		Response res1=req.put(data);	
 		
-		System.out.println(res1.statusCode());
-
-		Response res2=req.put(data);	
-		
-		System.out.println(res2.statusCode());
 		
 
 		
