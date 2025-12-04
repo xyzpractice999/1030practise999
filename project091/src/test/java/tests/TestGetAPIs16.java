@@ -40,6 +40,9 @@ public class TestGetAPIs16 {
 		
 		System.out.println(res2.statusCode());
 		
+		System.out.println(res2.statusCode());
+		System.out.println(res2.statusCode());
+		
 		
 		
 
