@@ -31,11 +31,8 @@ public class TestGetAPIs16 {
 		Response res=req.put(data);	
 		
 		System.out.println(res.statusCode());
-		System.out.println(res.asString());
-		System.out.println(res.getHeaders());
-		System.out.println(res.statusCode());
-		System.out.println(res.asString());
-		System.out.println(res.getHeaders());
+		
+
 
 	
 	}
